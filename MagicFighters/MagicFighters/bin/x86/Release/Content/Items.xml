@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MFItems>
+  <Item ItemType="CollectorType" Name ="collector2" Title="" DisplayInfo="Welcome to Magic Fighters" Value="" Action="" Field="" />
+  <Item ItemType="BirdType" Name ="AnimatedBird1" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+  <Item ItemType="EnemyType" Name ="Anim_bigMonster" Title="" DisplayInfo="" Value="" Action="" Field="" />
+
+  <Item ItemType="EnemyType" Name ="Anim_badwasp1" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+  <Item ItemType="CollectorType" Name ="collector1" Title="" DisplayInfo="+10 HP" Value="10.0" Action="+" Field="HP"/>
+  <Item ItemType="BirdType" Name ="AnimatedBird1" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+
+  <Item ItemType="NPCType" Name ="NPC1" Title="" DisplayInfo="Its dangerous to go alone! Take this!" Value="" Action="" Field=""/>
+
+  <Item ItemType="BotType" Name ="flyingbot1" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+  <Item ItemType="EnemyType" Name ="Anim_badwasp1" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+  <Item ItemType="CollectorType" Name ="collector3" Title="" DisplayInfo="+10 HP" Value="10.0" Action="+" Field="HP"/>
+  <Item ItemType="EnemyType" Name ="Anim_badwasp1" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+
+  <Item ItemType="VegetableType" Name ="2" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+  <Item ItemType="VegetableType" Name ="2" DisplayInfo="+10 HP" Value="10.0" Action="+" Field="HP"/>
+  <Item ItemType="BirdType" Name ="AnimatedBird1" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+  <Item ItemType="VegetableType" Name ="2" Title="" DisplayInfo="+10 HP" Value="10.0" Action="+" Field="HP"/>
+  <Item ItemType="BotType" Name ="flyingbot2" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+  <Item ItemType="BotType" Name ="flyingbot1" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+  <Item ItemType="EnemyType" Name ="Anim_bigMonster" Title="" DisplayInfo="" Value="" Action="" Field=""/>
+
+  <Item ItemType="VegetableType" Name ="chili1" Title="" DisplayInfo="+10 MP" Value="10.0" Action="AddMP" Field="MP"/>
+  <Item ItemType="VegetableType" Name ="4" Title="" DisplayInfo="+10 HP" Value="10.0" Action="+" Field="HP"/>
+
+
+  <Item ItemType="NPCType" Name ="NPC2" Title="" DisplayInfo="Careful, Blanka is very ferocious! Take this! " Value="" Action="" Field=""/>
+
+  <Item ItemType="ItemType" Name ="Item1" Title="" DisplayInfo="POWERUP HADOKEN" Value="100.0" Action="FireBall" Field="MP"/>
+  <Item ItemType="VegetableType" Name ="9" Title="" DisplayInfo="+10 MP" Value="10.0" Action="+" Field="MP"/>
+  <Item ItemType="BlankaType" Name ="Blanka" Title="" DisplayInfo="ME BLANKA RAARRR! YOU DIE!" Value="" Action="" Field=""/>
+</MFItems>

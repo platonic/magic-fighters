@@ -1,0 +1,6 @@
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

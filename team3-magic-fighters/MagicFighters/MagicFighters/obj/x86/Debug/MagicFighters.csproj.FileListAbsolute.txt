@@ -1,0 +1,42 @@
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\blanka.xnb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\characterselect.xnb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\blanka.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\characterselect.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.dll
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.xml
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\blanka.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\characterselect.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\playerSelect.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.dll
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.xml
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb

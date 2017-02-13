@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Credits -->
+<Credits>
+  <Credit Name ="Lisandro Martinez" Title="Lead Programmer and Q/A" Comments="" FlowDirection="BottomCenter" IsRotating="False" />
+  <Credit Name ="William McHugh" Title="Team Lead and Supporting Programmer"  Comments=""  FlowDirection="BottomCenter" IsRotating="False" />
+  <Credit Name ="Jesse Oresnik" Title="Play testing and Q/A" FlowDirection="BottomCenter" IsRotating="False" />
+  <Credit Name ="Romeo Mesina" Title="Art/Music Assets and Play Testing"  Comments=""  FlowDirection="BottomCenter" IsRotating="False" />
+  <Credit Name ="Special Thanks" Title="To: "  Comments=""  FlowDirection="BottomCenter" IsRotating="False" />
+  <Credit Name ="Professor" Title="Mark Baldwin"  Comments="For his great support."  FlowDirection="BottomCenter" IsRotating="False" />
+  <Credit Name ="Family and Friends" Title=""  Comments=""  FlowDirection="BottomCenter" IsRotating="False" />
+  <Credit Name ="And" Title="Student Loans"  Comments=""  FlowDirection="BottomCenter" IsRotating="False" />
+</Credits>

@@ -1,0 +1,5 @@
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFightersContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFightersContent\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFightersContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFightersContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\team3-magic-fighters\MagicFighters\MagicFightersContent\obj\x86\Debug\ResolveAssemblyReference.cache

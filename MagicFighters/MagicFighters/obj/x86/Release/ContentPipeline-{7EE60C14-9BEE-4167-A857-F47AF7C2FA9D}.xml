@@ -1,0 +1,1316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MainFont.spritefont</Source>
+      <Name>MainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\MainFont.xnb</Output>
+      <Time>2012-09-02T14:27:32.3612-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DebugSpriteFont.spritefont</Source>
+      <Name>DebugSpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\DebugSpriteFont.xnb</Output>
+      <Time>2012-09-02T16:01:16.5322-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HudSpriteFont.spritefont</Source>
+      <Name>HudSpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\HudSpriteFont.xnb</Output>
+      <Time>2012-09-18T15:55:09.9118-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Players\BlueMan.png</Source>
+      <Name>Textures\Players\BlueMan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Textures\Players\BlueMan.xnb</Output>
+      <Time>2012-09-16T06:28:59.9972-07:00</Time>
+    </Item>
+    <Item>
+      <Source>blanka.png</Source>
+      <Name>blanka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\blanka.xnb</Output>
+      <Time>2012-09-02T14:27:32.6412-07:00</Time>
+    </Item>
+    <Item>
+      <Source>characterselect.png</Source>
+      <Name>characterselect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\characterselect.xnb</Output>
+      <Time>2012-09-02T14:27:32.3332-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MF_Title.png</Source>
+      <Name>MF_Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\MF_Title.xnb</Output>
+      <Time>2012-09-02T14:27:32.3572-07:00</Time>
+    </Item>
+    <Item>
+      <Source>playerSelect.png</Source>
+      <Name>playerSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\playerSelect.xnb</Output>
+      <Time>2012-09-02T14:27:32.3292-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBar.png</Source>
+      <Name>HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\HealthBar.xnb</Output>
+      <Time>2012-09-02T14:27:32.6492-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ken walking Left_Right.png</Source>
+      <Name>ken walking Left_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\ken walking Left_Right.xnb</Output>
+      <Time>2012-09-02T16:00:19.9712-07:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangle.png</Source>
+      <Name>rectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\rectangle.xnb</Output>
+      <Time>2012-09-02T16:00:59.8012-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\DirtGras.png</Source>
+      <Name>Level1Tileset\DirtGras</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\DirtGras.xnb</Output>
+      <Time>2012-09-20T12:36:12.0376-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\DirtGras2.png</Source>
+      <Name>Level1Tileset\DirtGras2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\DirtGras2.xnb</Output>
+      <Time>2012-09-20T12:36:14.9996-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\DirtGras4.png</Source>
+      <Name>Level1Tileset\DirtGras4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\DirtGras4.xnb</Output>
+      <Time>2012-09-20T12:36:15.0016-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\DirtGras5.png</Source>
+      <Name>Level1Tileset\DirtGras5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\DirtGras5.xnb</Output>
+      <Time>2012-09-20T12:36:15.0026-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\DirtGrasBone.png</Source>
+      <Name>Level1Tileset\DirtGrasBone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\DirtGrasBone.xnb</Output>
+      <Time>2012-09-20T12:36:15.0046-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Hill1.png</Source>
+      <Name>Level1Tileset\Hill1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Hill1.xnb</Output>
+      <Time>2012-09-20T12:36:15.0056-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\leftedge.png</Source>
+      <Name>Level1Tileset\leftedge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\leftedge.xnb</Output>
+      <Time>2012-09-20T12:36:15.0086-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\SkulStone.png</Source>
+      <Name>Level1Tileset\SkulStone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\SkulStone.xnb</Output>
+      <Time>2012-09-20T12:36:15.0096-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stone.png</Source>
+      <Name>Level1Tileset\Stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stone.xnb</Output>
+      <Time>2012-09-20T12:36:15.0116-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stone2.png</Source>
+      <Name>Level1Tileset\Stone2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stone2.xnb</Output>
+      <Time>2012-09-20T12:36:15.0126-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones1.png</Source>
+      <Name>Level1Tileset\Stones1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones1.xnb</Output>
+      <Time>2012-09-20T12:36:15.0136-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones10.png</Source>
+      <Name>Level1Tileset\Stones10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones10.xnb</Output>
+      <Time>2012-09-20T12:36:15.0256-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones11.png</Source>
+      <Name>Level1Tileset\Stones11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones11.xnb</Output>
+      <Time>2012-09-20T12:36:15.0266-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones12.png</Source>
+      <Name>Level1Tileset\Stones12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones12.xnb</Output>
+      <Time>2012-09-20T12:36:15.0286-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones13.png</Source>
+      <Name>Level1Tileset\Stones13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones13.xnb</Output>
+      <Time>2012-09-20T12:36:15.0326-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones17.png</Source>
+      <Name>Level1Tileset\Stones17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones17.xnb</Output>
+      <Time>2012-09-20T12:36:15.0336-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones18.png</Source>
+      <Name>Level1Tileset\Stones18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones18.xnb</Output>
+      <Time>2012-09-20T12:36:15.0356-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones19.png</Source>
+      <Name>Level1Tileset\Stones19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones19.xnb</Output>
+      <Time>2012-09-20T12:36:15.0366-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones1Grass.png</Source>
+      <Name>Level1Tileset\Stones1Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones1Grass.xnb</Output>
+      <Time>2012-09-20T12:36:15.0156-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones2.png</Source>
+      <Name>Level1Tileset\Stones2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones2.xnb</Output>
+      <Time>2012-09-20T12:36:15.0166-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones20.png</Source>
+      <Name>Level1Tileset\Stones20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones20.xnb</Output>
+      <Time>2012-09-20T12:36:15.0396-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones21.png</Source>
+      <Name>Level1Tileset\Stones21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones21.xnb</Output>
+      <Time>2012-09-20T12:36:15.0406-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones22.png</Source>
+      <Name>Level1Tileset\Stones22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones22.xnb</Output>
+      <Time>2012-09-20T12:36:15.0416-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones23.png</Source>
+      <Name>Level1Tileset\Stones23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones23.xnb</Output>
+      <Time>2012-09-20T12:36:15.0436-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones24.png</Source>
+      <Name>Level1Tileset\Stones24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones24.xnb</Output>
+      <Time>2012-09-20T12:36:15.0446-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones25.png</Source>
+      <Name>Level1Tileset\Stones25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones25.xnb</Output>
+      <Time>2012-09-20T12:36:15.0456-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones26.png</Source>
+      <Name>Level1Tileset\Stones26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones26.xnb</Output>
+      <Time>2012-09-20T12:36:15.0466-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones27.png</Source>
+      <Name>Level1Tileset\Stones27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones27.xnb</Output>
+      <Time>2012-09-20T12:36:15.0476-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones28.png</Source>
+      <Name>Level1Tileset\Stones28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones28.xnb</Output>
+      <Time>2012-09-20T12:36:15.0496-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones29.png</Source>
+      <Name>Level1Tileset\Stones29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones29.xnb</Output>
+      <Time>2012-09-20T12:36:15.0506-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones3.png</Source>
+      <Name>Level1Tileset\Stones3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones3.xnb</Output>
+      <Time>2012-09-20T12:36:15.0176-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones30.png</Source>
+      <Name>Level1Tileset\Stones30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones30.xnb</Output>
+      <Time>2012-09-20T12:36:15.0526-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones31.png</Source>
+      <Name>Level1Tileset\Stones31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones31.xnb</Output>
+      <Time>2012-09-20T12:36:15.0536-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones32.png</Source>
+      <Name>Level1Tileset\Stones32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones32.xnb</Output>
+      <Time>2012-09-20T12:36:15.0556-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones33.png</Source>
+      <Name>Level1Tileset\Stones33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones33.xnb</Output>
+      <Time>2012-09-20T12:36:15.0566-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones34.png</Source>
+      <Name>Level1Tileset\Stones34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones34.xnb</Output>
+      <Time>2012-09-20T12:36:15.0586-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones35.png</Source>
+      <Name>Level1Tileset\Stones35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones35.xnb</Output>
+      <Time>2012-09-20T12:36:15.0596-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones36.png</Source>
+      <Name>Level1Tileset\Stones36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones36.xnb</Output>
+      <Time>2012-09-20T12:36:15.0606-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones37.png</Source>
+      <Name>Level1Tileset\Stones37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones37.xnb</Output>
+      <Time>2012-09-20T12:36:15.0616-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones38.png</Source>
+      <Name>Level1Tileset\Stones38</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones38.xnb</Output>
+      <Time>2012-09-20T12:36:15.0626-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones39.png</Source>
+      <Name>Level1Tileset\Stones39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones39.xnb</Output>
+      <Time>2012-09-20T12:36:15.0636-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones4.png</Source>
+      <Name>Level1Tileset\Stones4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones4.xnb</Output>
+      <Time>2012-09-20T12:36:15.0196-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones40.png</Source>
+      <Name>Level1Tileset\Stones40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones40.xnb</Output>
+      <Time>2012-09-20T12:36:15.0656-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones41.png</Source>
+      <Name>Level1Tileset\Stones41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones41.xnb</Output>
+      <Time>2012-09-20T12:36:15.0666-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones42.png</Source>
+      <Name>Level1Tileset\Stones42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones42.xnb</Output>
+      <Time>2012-09-20T12:36:15.0676-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones43.png</Source>
+      <Name>Level1Tileset\Stones43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones43.xnb</Output>
+      <Time>2012-09-20T12:36:15.0686-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones44.png</Source>
+      <Name>Level1Tileset\Stones44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones44.xnb</Output>
+      <Time>2012-09-20T12:36:15.0706-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones45.png</Source>
+      <Name>Level1Tileset\Stones45</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones45.xnb</Output>
+      <Time>2012-09-20T12:36:15.0726-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones46.png</Source>
+      <Name>Level1Tileset\Stones46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones46.xnb</Output>
+      <Time>2012-09-20T12:36:15.0746-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones47.png</Source>
+      <Name>Level1Tileset\Stones47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones47.xnb</Output>
+      <Time>2012-09-20T12:36:15.0756-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones48.png</Source>
+      <Name>Level1Tileset\Stones48</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones48.xnb</Output>
+      <Time>2012-09-20T12:36:15.0776-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones49.png</Source>
+      <Name>Level1Tileset\Stones49</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones49.xnb</Output>
+      <Time>2012-09-20T12:36:15.0786-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones5.png</Source>
+      <Name>Level1Tileset\Stones5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones5.xnb</Output>
+      <Time>2012-09-20T12:36:15.0206-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones50.png</Source>
+      <Name>Level1Tileset\Stones50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones50.xnb</Output>
+      <Time>2012-09-20T12:36:15.0806-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones51.png</Source>
+      <Name>Level1Tileset\Stones51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones51.xnb</Output>
+      <Time>2012-09-20T12:36:15.0816-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones52.png</Source>
+      <Name>Level1Tileset\Stones52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones52.xnb</Output>
+      <Time>2012-09-20T12:36:15.0836-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones53.png</Source>
+      <Name>Level1Tileset\Stones53</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones53.xnb</Output>
+      <Time>2012-09-20T12:36:15.0846-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones54.png</Source>
+      <Name>Level1Tileset\Stones54</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones54.xnb</Output>
+      <Time>2012-09-20T12:36:15.0866-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones55.png</Source>
+      <Name>Level1Tileset\Stones55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones55.xnb</Output>
+      <Time>2012-09-20T12:36:15.0886-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones56.png</Source>
+      <Name>Level1Tileset\Stones56</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones56.xnb</Output>
+      <Time>2012-09-20T12:36:15.0906-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones57.png</Source>
+      <Name>Level1Tileset\Stones57</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones57.xnb</Output>
+      <Time>2012-09-20T12:36:15.0916-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones58.png</Source>
+      <Name>Level1Tileset\Stones58</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones58.xnb</Output>
+      <Time>2012-09-20T12:36:15.0936-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones6.png</Source>
+      <Name>Level1Tileset\Stones6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones6.xnb</Output>
+      <Time>2012-09-20T12:36:15.0216-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones7.png</Source>
+      <Name>Level1Tileset\Stones7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones7.xnb</Output>
+      <Time>2012-09-20T12:36:15.0226-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones8.png</Source>
+      <Name>Level1Tileset\Stones8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones8.xnb</Output>
+      <Time>2012-09-20T12:36:15.0236-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones9.png</Source>
+      <Name>Level1Tileset\Stones9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones9.xnb</Output>
+      <Time>2012-09-20T12:36:15.0246-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\StonesBone.png</Source>
+      <Name>Level1Tileset\StonesBone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\StonesBone.xnb</Output>
+      <Time>2012-09-20T12:36:15.0986-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\topedge.png</Source>
+      <Name>Level1Tileset\topedge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\topedge.xnb</Output>
+      <Time>2012-09-20T12:36:15.1006-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy_Health_Bar_Short.png</Source>
+      <Name>Enemy_Health_Bar_Short</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Enemy_Health_Bar_Short.xnb</Output>
+      <Time>2012-09-09T14:32:36.5697-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player_Health_Bar_Short.png</Source>
+      <Name>Player_Health_Bar_Short</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Player_Health_Bar_Short.xnb</Output>
+      <Time>2012-09-09T14:32:36.6427-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\MF_Title.png</Source>
+      <Name>Textures\Backgrounds\MF_Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Textures\Backgrounds\MF_Title.xnb</Output>
+      <Time>2012-09-09T15:34:36.0327-07:00</Time>
+    </Item>
+    <Item>
+      <Source>KenAnimations.png</Source>
+      <Name>KenAnimations</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\KenAnimations.xnb</Output>
+      <Time>2012-09-19T12:47:09.5053-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\blanka.png</Source>
+      <Name>Level1Tileset\blanka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\blanka.xnb</Output>
+      <Time>2012-09-13T12:36:12.4786-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Ken.png</Source>
+      <Name>Level1Tileset\Ken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Ken.xnb</Output>
+      <Time>2012-09-13T12:36:12.4786-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\1.png</Source>
+      <Name>Level1Tileset\Items\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\1.xnb</Output>
+      <Time>2012-09-13T17:40:01.319-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\2.png</Source>
+      <Name>Level1Tileset\Items\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\2.xnb</Output>
+      <Time>2012-09-13T17:40:01.32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\3.png</Source>
+      <Name>Level1Tileset\Items\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\3.xnb</Output>
+      <Time>2012-09-13T17:40:01.322-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\4.png</Source>
+      <Name>Level1Tileset\Items\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\4.xnb</Output>
+      <Time>2012-09-13T17:40:01.323-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\5.png</Source>
+      <Name>Level1Tileset\Items\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\5.xnb</Output>
+      <Time>2012-09-13T17:40:01.324-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\6.png</Source>
+      <Name>Level1Tileset\Items\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\6.xnb</Output>
+      <Time>2012-09-13T17:40:01.325-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\7.png</Source>
+      <Name>Level1Tileset\Items\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\7.xnb</Output>
+      <Time>2012-09-13T17:40:01.326-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\8.png</Source>
+      <Name>Level1Tileset\Items\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\8.xnb</Output>
+      <Time>2012-09-13T17:40:01.327-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\9.png</Source>
+      <Name>Level1Tileset\Items\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\9.xnb</Output>
+      <Time>2012-09-13T17:40:01.328-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\AnimBrid1.png</Source>
+      <Name>Level1Tileset\Items\AnimBrid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\AnimBrid1.xnb</Output>
+      <Time>2012-09-13T17:40:01.341-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\Anim_badwasp1.png</Source>
+      <Name>Level1Tileset\Items\Anim_badwasp1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\Anim_badwasp1.xnb</Output>
+      <Time>2012-09-13T17:40:01.329-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\Anim_bigMonster.png</Source>
+      <Name>Level1Tileset\Items\Anim_bigMonster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\Anim_bigMonster.xnb</Output>
+      <Time>2012-09-13T17:40:01.33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\banana.png</Source>
+      <Name>Level1Tileset\Items\banana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\banana.xnb</Output>
+      <Time>2012-09-13T17:40:01.342-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\BG1.png</Source>
+      <Name>Level1Tileset\Items\BG1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\BG1.xnb</Output>
+      <Time>2012-09-13T17:40:01.343-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\BG2.png</Source>
+      <Name>Level1Tileset\Items\BG2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\BG2.xnb</Output>
+      <Time>2012-09-13T17:40:01.343-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\BG3.png</Source>
+      <Name>Level1Tileset\Items\BG3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\BG3.xnb</Output>
+      <Time>2012-09-13T17:40:01.346-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\blanka.png</Source>
+      <Name>Level1Tileset\Items\blanka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\blanka.xnb</Output>
+      <Time>2012-09-14T15:39:00.1788-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\chili.png</Source>
+      <Name>Level1Tileset\Items\chili</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\chili.xnb</Output>
+      <Time>2012-09-13T17:40:01.349-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\colector1.png</Source>
+      <Name>Level1Tileset\Items\colector1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\colector1.xnb</Output>
+      <Time>2012-09-13T17:40:01.35-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\collector2.png</Source>
+      <Name>Level1Tileset\Items\collector2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\collector2.xnb</Output>
+      <Time>2012-09-13T17:40:01.351-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\collector3.png</Source>
+      <Name>Level1Tileset\Items\collector3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\collector3.xnb</Output>
+      <Time>2012-09-13T17:40:01.352-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\corn.png</Source>
+      <Name>Level1Tileset\Items\corn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\corn.xnb</Output>
+      <Time>2012-09-13T17:40:01.353-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\flame1.png</Source>
+      <Name>Level1Tileset\Items\flame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\flame1.xnb</Output>
+      <Time>2012-09-13T17:40:01.354-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\flame2.png</Source>
+      <Name>Level1Tileset\Items\flame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\flame2.xnb</Output>
+      <Time>2012-09-13T17:40:01.356-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\flyingbot1.png</Source>
+      <Name>Level1Tileset\Items\flyingbot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\flyingbot1.xnb</Output>
+      <Time>2012-09-13T17:40:01.357-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\flyingbot2.png</Source>
+      <Name>Level1Tileset\Items\flyingbot2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\flyingbot2.xnb</Output>
+      <Time>2012-09-13T17:40:01.358-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\house.png</Source>
+      <Name>Level1Tileset\Items\house</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\house.xnb</Output>
+      <Time>2012-09-13T17:40:01.36-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\Item1.png</Source>
+      <Name>Level1Tileset\Items\Item1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\Item1.xnb</Output>
+      <Time>2012-09-13T17:40:01.361-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\Ken.png</Source>
+      <Name>Level1Tileset\Items\Ken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\Ken.xnb</Output>
+      <Time>2012-09-13T17:40:01.363-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\lamp.png</Source>
+      <Name>Level1Tileset\Items\lamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\lamp.xnb</Output>
+      <Time>2012-09-13T17:40:01.364-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\NPC1.png</Source>
+      <Name>Level1Tileset\Items\NPC1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\NPC1.xnb</Output>
+      <Time>2012-09-13T17:40:01.366-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\NPC2.png</Source>
+      <Name>Level1Tileset\Items\NPC2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\NPC2.xnb</Output>
+      <Time>2012-09-13T17:40:01.367-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\pepper.png</Source>
+      <Name>Level1Tileset\Items\pepper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\pepper.xnb</Output>
+      <Time>2012-09-13T17:40:01.368-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\sf2-blanka.png</Source>
+      <Name>Level1Tileset\Items\sf2-blanka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\sf2-blanka.xnb</Output>
+      <Time>2012-09-13T17:40:01.371-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\Spikes.png</Source>
+      <Name>Level1Tileset\Items\Spikes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\Spikes.xnb</Output>
+      <Time>2012-09-13T17:40:01.372-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\Strawberry.png</Source>
+      <Name>Level1Tileset\Items\Strawberry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\Strawberry.xnb</Output>
+      <Time>2012-09-13T17:40:01.374-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Items\Tree1.png</Source>
+      <Name>Level1Tileset\Items\Tree1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Items\Tree1.xnb</Output>
+      <Time>2012-09-13T17:40:01.376-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\blank.png</Source>
+      <Name>Textures\Backgrounds\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Textures\Backgrounds\blank.xnb</Output>
+      <Time>2012-09-16T18:06:59.1055-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerHealthBar.png</Source>
+      <Name>PlayerHealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\PlayerHealthBar.xnb</Output>
+      <Time>2012-09-18T13:49:57.7818-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Spin Kick-SoundBible.com-1263586030.wav</Source>
+      <Name>Level1Tileset\Spin Kick-SoundBible.com-1263586030</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Spin Kick-SoundBible.com-1263586030.xnb</Output>
+      <Time>2012-09-09T06:21:27.1135-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\level1BG.mp3</Source>
+      <Name>Sounds\level1BG</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Sounds\level1BG.xnb</Output>
+      <Time>2012-09-16T08:07:52.7412-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\jts-ending.mp3</Source>
+      <Name>Sounds\jts-ending</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Sounds\jts-ending.xnb</Output>
+      <Time>2012-09-18T12:06:44.9758-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Bison_Background.jpg</Source>
+      <Name>Bison_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Bison_Background.xnb</Output>
+      <Time>2012-09-20T06:28:48.8397-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Instructions\keyboard_spacebar.png</Source>
+      <Name>Textures\Instructions\keyboard_spacebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Textures\Instructions\keyboard_spacebar.xnb</Output>
+      <Time>2012-09-20T05:37:01.3087-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Instructions\keyboard_arrow_keys.png</Source>
+      <Name>Textures\Instructions\keyboard_arrow_keys</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Textures\Instructions\keyboard_arrow_keys.xnb</Output>
+      <Time>2012-09-20T03:09:05.6127-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Instructions\keyboard_asdf.jpg</Source>
+      <Name>Textures\Instructions\keyboard_asdf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Textures\Instructions\keyboard_asdf.xnb</Output>
+      <Time>2012-09-20T05:37:05.1257-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFonts\InformationFont.spritefont</Source>
+      <Name>GameFonts\InformationFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\GameFonts\InformationFont.xnb</Output>
+      <Time>2012-09-20T01:14:20.9477-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\mainmenu.mp3</Source>
+      <Name>Sounds\mainmenu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Sounds\mainmenu.xnb</Output>
+      <Time>2012-09-19T22:40:12.6672-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pause.mp3</Source>
+      <Name>Sounds\pause</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Sounds\pause.xnb</Output>
+      <Time>2012-09-19T23:23:55.6367-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\credits.mp3</Source>
+      <Name>Sounds\credits</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Sounds\credits.xnb</Output>
+      <Time>2012-09-19T23:34:39.8037-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\instructions.mp3</Source>
+      <Name>Sounds\instructions</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Sounds\instructions.xnb</Output>
+      <Time>2012-09-20T00:00:33.3717-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\StonesGrass2.png</Source>
+      <Name>Level1Tileset\StonesGrass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\StonesGrass2.xnb</Output>
+      <Time>2012-09-20T12:36:15.0996-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\HillR.png</Source>
+      <Name>Level1Tileset\HillR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\HillR.xnb</Output>
+      <Time>2012-09-20T12:36:15.0076-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones59.png</Source>
+      <Name>Level1Tileset\Stones59</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones59.xnb</Output>
+      <Time>2012-09-20T12:36:15.0946-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones60.png</Source>
+      <Name>Level1Tileset\Stones60</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones60.xnb</Output>
+      <Time>2012-09-20T12:36:15.0956-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Tileset\Stones61.png</Source>
+      <Name>Level1Tileset\Stones61</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\Level1Tileset\Stones61.xnb</Output>
+      <Time>2012-09-20T12:36:15.0976-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7EE60C14-9BEE-4167-A857-F47AF7C2FA9D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFightersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-30T19:52:20.8479-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

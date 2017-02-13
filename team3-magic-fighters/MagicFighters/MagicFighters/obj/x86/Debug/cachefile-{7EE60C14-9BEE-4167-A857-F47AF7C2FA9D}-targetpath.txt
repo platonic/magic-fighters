@@ -1,0 +1,6 @@
+Content\MainFont.xnb
+Content\blanka.xnb
+Content\characterselect.xnb
+Content\MF_Title.xnb
+Content\playerSelect.xnb
+Content\HealthBar.xnb

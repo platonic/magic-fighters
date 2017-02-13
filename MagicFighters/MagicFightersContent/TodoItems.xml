@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MFTodoItems>
+  <!--
+      ImportanceLevel 1-10 1=Not very important. 10=Extreamly Important
+      NeedAssistance = true or false
+      Completed = true or false
+      CompletedBy = Name of the person
+      AssistantName = Who assisted or should assist
+      Date = Completed date
+      ClassName = Name of the class(source, may also include assets 'Blanka.png') where the code is located. blanck = n/a
+  -->
+  
+  <TODO AssignedName ="William" AssistantName ="" Completed="" CompletedBy="" Date="" Comments="Bird AI – fly back and forth" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TODO AssignedName ="William" AssistantName ="" Completed="" CompletedBy="" Date="" Comments="Blanka Test his AI" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TODO AssignedName ="William" AssistantName ="" Completed="" CompletedBy="" Date="" Comments="Blanka Test his AI" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TODO AssignedName ="William" AssistantName ="" Completed="" CompletedBy="" Date="" Comments="Game Over  Screen" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TODO AssignedName ="William" AssistantName ="" Completed="" CompletedBy="" Date="" Comments="Bug AI" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TODO AssignedName ="William" AssistantName ="" Completed="" CompletedBy="" Date="" Comments="Bug AI Particles" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TODO AssignedName ="William" AssistantName ="" Completed="" CompletedBy="" Date="" Comments="Ken Dying Animation" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TODO AssignedName ="William" AssistantName ="" Completed="" CompletedBy="" Date="" Comments="Ken Dying Logic" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TODO AssignedName ="Lisandro" AssistantName ="" Completed="" CompletedBy="" Date="" Comments="Damaging enemies" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TODO AssignedName ="Lisandro" AssistantName ="Romeo" Completed="" CompletedBy="" Date="" Comments="Ending" ImportanceLevel="" NeedAssistance="" ClassName="" />
+
+
+
+  <TOFIX AssignedName ="Lisandro"  AssistantName ="" Completed="" CompletedBy=""  Date=""  Comments="Blanka Collision" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TOFIX AssignedName ="Lisandro"  AssistantName ="" Completed="" CompletedBy=""  Date=""  Comments="Ken Falling" ImportanceLevel="" NeedAssistance="" ClassName="" />
+
+  <TOUPDATE AssignedName ="Everybody"  AssistantName ="" Completed="" CompletedBy=""  Date=""  Comments="Play Test all the levels" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TOUPDATE AssignedName ="Lisandro"  AssistantName ="" Completed="" CompletedBy=""  Date=""  Comments="Optomize Scrolling" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TOUPDATE AssignedName ="Lisandro"  AssistantName ="" Completed="" CompletedBy=""  Date=""  Comments="State machine" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  <TOUPDATE AssignedName ="Lisandro"  AssistantName ="William" Completed="" CompletedBy=""  Date=""  Comments="Clean up the code" ImportanceLevel="" NeedAssistance="" ClassName="" />
+  
+  
+</MFTodoItems>
+
+
+<!--
+Based on this documentation from 9-26-2012
+TODO:
+Bird AI – fly back and forth 	- Will
+Blanka Test his AI		- Will
+Game Over  Screen 		- Will
+Bug AI (same as bird AI) If possible add particle effects 	- Will
+Ken Dying Animation and Logic 				- Will
+Damaging enemies		- Lisandro
+Transition to level 2		- Lisandro
+Ending							- Lisandro	-Romeo
+
+TOFIX:
+Blanka not fall through floor 	- Lisandro
+Change gravity based on distance from ground		- Lisandro
+TOUPDATE:
+Play Test all the levels					-Everybody
+Optomize Scrolling		- Lisandro
+State machine			- Lisandro
+Clean up the code		- Lisandro	-Will
+
+
+-->

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MainFont.spritefont</Source>
+      <Name>MainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb</Output>
+      <Time>2012-08-18T14:50:13.7342-07:00</Time>
+    </Item>
+    <Item>
+      <Source>blanka.png</Source>
+      <Name>blanka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\blanka.xnb</Output>
+      <Time>2012-08-18T14:51:26.7042-07:00</Time>
+    </Item>
+    <Item>
+      <Source>characterselect.png</Source>
+      <Name>characterselect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\characterselect.xnb</Output>
+      <Time>2012-08-18T15:04:18.6542-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MF_Title.png</Source>
+      <Name>MF_Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb</Output>
+      <Time>2012-08-18T22:56:19.3112-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7EE60C14-9BEE-4167-A857-F47AF7C2FA9D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFightersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-12-30T00:07:08.9674-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

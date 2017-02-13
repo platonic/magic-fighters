@@ -1,0 +1,628 @@
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\t3test\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\blanka.xnb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\characterselect.xnb
+C:\Users\Lisandro\Documents\westwood2012\August\SG490 Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\blanka.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\characterselect.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.dll
+Z:\Users\Will\Desktop\MagicFightters\team3-magic-fighters\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.xml
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\blanka.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\characterselect.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\playerSelect.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.dll
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.xml
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\blanka.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\characterselect.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\playerSelect.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.dll
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.xml
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\ken walking Left_Right.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\tilemap.mfm
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\rectangle.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\DebugSpriteFont.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\DebugSpriteFont.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\ken walking Left_Right.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\rectangle.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\tilemap.mfm
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Enemy_Health_Bar_Short.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Player_Health_Bar_Short.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras4.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras5.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGrasBone.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Hill1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\leftedge.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\SkulStone.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stone.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stone2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones10.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones11.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones12.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones13.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones17.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones18.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones19.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones1Grass.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones20.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones21.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones22.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones23.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones24.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones25.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones26.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones27.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones28.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones29.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones3.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones30.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones31.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones32.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones33.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones34.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones35.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones36.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones37.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones38.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones39.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones4.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones40.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones41.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones42.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones43.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones44.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones45.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones46.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones47.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones48.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones49.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones5.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones50.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones51.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones52.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones53.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones54.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones55.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones56.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones57.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones58.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones6.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones7.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones8.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones9.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\StonesBone.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\topedge.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Spin Kick-SoundBible.com-1263586030.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Enemy_Health_Bar_Short.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Player_Health_Bar_Short.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Backgrounds\MF_Title.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\KenAnimations.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\blanka.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Ken.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\3.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\4.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\5.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\6.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\7.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\8.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\9.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\AnimBrid1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Anim_badwasp1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Anim_bigMonster.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\banana.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG3.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\blanka.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\chili.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\colector1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector3.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\corn.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flame1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flame2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flyingbot1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flyingbot2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\house.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Item1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Ken.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\lamp.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\NPC1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\NPC2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\pepper.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\sf2-blanka.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Spikes.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Strawberry.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Tree1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Players\BlueMan.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Backgrounds\blank.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\level1BG.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\HudSpriteFont.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\PlayerHealthBar.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\jts-ending.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Credits.xml
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras2.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras4.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras5.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGrasBone.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Hill1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\leftedge.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\SkulStone.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stone.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stone2.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones10.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones11.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones12.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones13.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones17.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones18.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones19.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones1Grass.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones2.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones20.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones21.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones22.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones23.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones24.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones25.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones26.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones27.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones28.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones29.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones3.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones30.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones31.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones32.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones33.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones34.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones35.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones36.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones37.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones38.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones39.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones4.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones40.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones41.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones42.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones43.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones44.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones45.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones46.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones47.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones48.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones49.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones5.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones50.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones51.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones52.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones53.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones54.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones55.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones56.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones57.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones58.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones6.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones7.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones8.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones9.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\StonesBone.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\topedge.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Backgrounds\MF_Title.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Spin Kick-SoundBible.com-1263586030.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\KenAnimations.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\HudSpriteFont.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Players\BlueMan.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\blanka.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Ken.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\2.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\3.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\4.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\5.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\6.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\7.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\8.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\9.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\AnimBrid1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Anim_badwasp1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Anim_bigMonster.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\banana.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG2.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG3.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\blanka.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\chili.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\colector1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector2.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector3.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\corn.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flame1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flame2.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flyingbot1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flyingbot2.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\house.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Item1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Ken.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\lamp.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\NPC1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\NPC2.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\pepper.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\sf2-blanka.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Spikes.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Strawberry.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Tree1.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Backgrounds\blank.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\PlayerHealthBar.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\level1BG.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\jts-ending.xnb
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Credits.xml
+C:\Users\Jesse Oresnik\Desktop\Westwood\Semester 6\Game Software Senior Project\Game Project\MagicFighters\MagicFighters\bin\x86\Debug\Content\Bison_Background.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Bison_Background.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\mainmenu.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\pause.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\credits.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\instructions.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Instructions\keyboard_arrow_keys.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\GameFonts\InformationFont.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Instructions\keyboard_spacebar.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Instructions\keyboard_asdf.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\StonesGrass2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\HillR.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones59.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones60.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones61.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Stones18.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFighters\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Bison_Background.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Players\BlueMan.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\ken walking Left_Right.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\rectangle.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras4.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras5.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGrasBone.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Hill1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\leftedge.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\SkulStone.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stone.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stone2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones10.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones11.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones12.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones13.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones17.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones18.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones19.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones1Grass.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones20.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones21.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones22.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones23.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones24.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones25.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones26.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones27.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones28.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones29.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones3.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones30.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones31.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones32.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones33.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones34.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones35.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones36.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones37.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones38.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones39.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones4.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones40.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones41.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones42.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones43.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones44.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones45.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones46.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones47.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones48.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones49.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones5.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones50.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones51.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones52.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones53.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones54.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones55.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones56.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones57.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones58.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones6.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones7.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones8.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones9.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\StonesBone.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\topedge.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Enemy_Health_Bar_Short.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Player_Health_Bar_Short.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Backgrounds\MF_Title.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\KenAnimations.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\blanka.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Ken.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\3.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\4.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\5.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\6.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\7.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\8.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\9.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\AnimBrid1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Anim_badwasp1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Anim_bigMonster.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\banana.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG3.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\blanka.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\chili.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\colector1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector3.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\corn.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flame1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flame2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flyingbot1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flyingbot2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\house.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Item1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Ken.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\lamp.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\NPC1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\NPC2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\pepper.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\sf2-blanka.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Spikes.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Strawberry.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Tree1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Backgrounds\blank.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\PlayerHealthBar.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Instructions\keyboard_spacebar.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Instructions\keyboard_arrow_keys.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Instructions\keyboard_asdf.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\StonesGrass2.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\HillR.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones59.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones60.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones61.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Stones18.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector1.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Dialogue\speech-bubble.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Players\Blanka\BlankaAnimations.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\DebugSpriteFont.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\HudSpriteFont.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\GameFonts\InformationFont.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Spin Kick-SoundBible.com-1263586030.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\level1BG.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\jts-ending.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\mainmenu.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\pause.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\credits.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\instructions.xnb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\tilemap.mfm
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Credits.xml
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Dialogue.xml
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.dll
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.xml
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+C:\Users\Lisandro\Documents\Westwood2012\August\Game Software Senior Project\MagicFightersNew\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BGplain1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Bison_Background.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Players\BlueMan.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\MF_Title.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\ken walking Left_Right.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\rectangle.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras4.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGras5.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\DirtGrasBone.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Hill1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\leftedge.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\SkulStone.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stone.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stone2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones10.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones11.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones12.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones13.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones17.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones18.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones19.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones1Grass.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones20.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones21.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones22.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones23.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones24.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones25.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones26.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones27.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones28.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones29.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones3.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones30.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones31.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones32.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones33.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones34.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones35.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones36.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones37.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones38.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones39.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones4.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones40.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones41.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones42.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones43.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones44.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones45.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones46.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones47.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones48.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones49.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones5.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones50.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones51.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones52.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones53.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones54.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones55.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones56.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones57.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones58.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones6.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones7.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones8.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones9.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\StonesBone.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\topedge.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Enemy_Health_Bar_Short.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Player_Health_Bar_Short.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Backgrounds\MF_Title.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\KenAnimations.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\blanka.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Ken.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\3.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\4.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\5.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\6.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\7.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\8.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\9.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\AnimBrid1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Anim_badwasp1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Anim_bigMonster.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\banana.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BG3.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\blanka.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\chili.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\colector1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector3.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\corn.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flame1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flame2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flyingbot1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\flyingbot2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\house.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Item1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Ken.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\lamp.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\NPC1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\NPC2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\pepper.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\sf2-blanka.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Spikes.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Strawberry.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Tree1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Backgrounds\blank.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\PlayerHealthBar.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Instructions\keyboard_spacebar.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Instructions\keyboard_arrow_keys.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Instructions\keyboard_asdf.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\StonesGrass2.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\HillR.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones59.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones60.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Stones61.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\Stones18.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\collector1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Dialogue\speech-bubble.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Players\Blanka\BlankaAnimations.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Items\BGplain1.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\MainFont.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\DebugSpriteFont.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\HudSpriteFont.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\GameFonts\InformationFont.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\Spin Kick-SoundBible.com-1263586030.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\level1BG.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\jts-ending.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\mainmenu.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\pause.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\credits.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Sounds\instructions.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Items.xml
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Level1Tileset\tilemap.mfm
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Credits.xml
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Dialogue.xml
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.exe
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\MagicFighters.pdb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.dll
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Polenter.SharpSerializer.xml
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.exe
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\obj\x86\Debug\MagicFighters.pdb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\Textures\Players\BlueManDead.xnb
+Z:\Users\Will\Desktop\New folder\MagicFighters\MagicFighters\bin\x86\Debug\Content\TodoItems.xml

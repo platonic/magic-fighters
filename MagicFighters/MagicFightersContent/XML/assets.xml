@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Assets>
+      <Music>
+        <!--TODO: Add all music sources here-->
+        <songTitle>""</songTitle>
+        <composer>""</composer>
+      </Music>
+
+      <Sprites>
+        <!--TODO: Add all sprite sources here-->
+        <spriteSheet>""</spriteSheet>
+        <sourceGame>""</sourceGame>
+      </Sprites>
+
+      <Backgrounds>
+        <!--TODO: Add all background sources here-->
+        <bgName>""</bgName>
+        <sourceGame>""</sourceGame>
+      </Backgrounds>
+
+      <Particles>
+        <!--TODO:Add all particle sources here-->
+        <particleName>""</particleName>
+        <particleSource>""</particleSource>
+      </Particles>
+  </Assets>
+
+  <Asset Type="System.String"></Asset>
+</XnaContent>

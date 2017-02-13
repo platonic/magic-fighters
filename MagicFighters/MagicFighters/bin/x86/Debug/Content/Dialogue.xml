@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dialogue>
+  <Item Index="0" ItemType="CollectorType" Name ="collector2" Title="" Comments="Welcome to Magic Fighters" Value="30" Action="+" Field="HP" />
+  <Item Index="0" ItemType="BirdType" Name ="AnimatedBird1" Title="" Comments="" Value="" Action="" Field=""/>
+  <Item Index="0" ItemType="EnemyType" Name ="Anim_bigMonster" Title="" Comments="" Value="" Action="" Field="" />
+
+  <Item Index="0" ItemType="EnemyType" Name ="Anim_badwasp1" Title="" Comments="" Value="" Action="" Field=""/>
+  <Item Index="1" ItemType="CollectorType" Name ="collector1" Title="" Comments="+10 HP" Value="10.0" Action="+" Field="HP"/>
+  <Item Index="1" ItemType="BirdType" Name ="AnimatedBird1" Title="" Comments="" Value="" Action="" Field=""/>
+
+  <Item Index="0" ItemType="VegetableType" Name ="3" Title="" Comments="+10 MP" Value="10.0" Action="+" Field="MP"/>
+  <Item Index="1" ItemType="NPCType" Name ="NPC1" Title="" Comments="Its dangerous to go alone! Take this!" Value="" Action="" Field=""/>
+
+  <Item Index="0" ItemType="BotType" Name ="flyingbot1" Title="" Comments="" Value="" Action="" Field=""/>
+  <Item Index="1" ItemType="EnemyType" Name ="Anim_badwasp1" Title="" Comments="" Value="" Action="" Field=""/>
+  <Item Index="2" ItemType="CollectorType" Name ="collector3" Title="" Comments="+10 HP" Value="10.0" Action="+" Field="HP"/>
+  <Item Index="2" ItemType="EnemyType" Name ="Anim_badwasp1" Title="" Comments="" Value="" Action="" Field=""/>
+
+  <Item Index="0" ItemType="VegetableType" Name ="2" Title="" Comments="+10 MP" Value="10.0" Action="+" Field="MP"/>
+  <Item Index="0" ItemType="VegetableType" Name ="2" Comments="+10 HP" Value="10.0" Action="+" Field="HP"/>
+  <Item Index="1" ItemType="BirdType" Name ="AnimatedBird1" Title="" Comments="" Value="" Action="" Field=""/>
+  <Item Index="1" ItemType="VegetableType" Name ="2" Title="" Comments="+10 HP" Value="10.0" Action="+" Field="HP"/>
+  <Item Index="1" ItemType="BotType" Name ="flyingbot2" Title="" Comments="" Value="" Action="" Field=""/>
+  <Item Index="2" ItemType="BotType" Name ="flyingbot1" Title="" Comments="" Value="" Action="" Field=""/>
+  <Item Index="1" ItemType="EnemyType" Name ="Anim_bigMonster" Title="" Comments="" Value="" Action="" Field=""/>
+
+  <Item Index="2" ItemType="VegetableType" Name ="chili1" Title="" Comments="+10 MP" Value="10.0" Action="AddMP" Field="MP"/>
+  <Item Index="3" ItemType="VegetableType" Name ="4" Title="" Comments="+10 HP" Value="10.0" Action="+" Field="HP"/>
+
+
+  <Item Index="0" ItemType="NPCType" Name ="NPC2" Title="" Comments="Careful, Blanka is very ferocious! Take this! " Value="" Action="" Field=""/>
+
+  <Item Index="0" ItemType="ItemType" Name ="Item1" Title="" Comments="POWERUP HADOKEN" Value="100.0" Action="FireBall" Field="MP"/>
+  <Item Index="4" ItemType="VegetableType" Name ="9" Title="" Comments="+10 HP" Value="50.0" Action="+" Field="HP"/>
+  <Item Index="0" ItemType="BlankaType" Name ="Blanka" Title="" Comments="ME BLANKA RAARRR! YOU DIE!" Value="" Action="" Field=""/>
+</Dialogue>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!--Credits -->
+  <Author>
+    <name>"Lisandro Martinez"</name>
+    <Title>"Lead Programmer and Q/A"</Title>
+
+    <name>"William McHugh"</name>
+    <title>"Team Lead and Supporting Programmer</title>
+
+    <name>"Jesse Oresnik</name>
+    <title>"Play testing and Q/A"</title>
+
+    <name>"Romeo Mesina"</name>
+    <title>"Art/Music Assets and Play Testing</title> 
+  </Author> 
+</XnaContent>
